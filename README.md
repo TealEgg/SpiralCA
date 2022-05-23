@@ -1,1 +1,1 @@
-# SprialCA
+# SpiralCA
